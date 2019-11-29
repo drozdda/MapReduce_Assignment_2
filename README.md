@@ -8,4 +8,7 @@
 ### Sequentual:
 **Java**
 ### Distributed:
-**Python**
+**Python - Went with multiprocessor**
+## Output
+**Part 1 is in the output_final.txt file**
+![IPart 2 output](output.png)
