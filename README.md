@@ -12,5 +12,5 @@
 ## Output
 **Part 1 is in the output_final.txt file**
 **The execution duration was 544000000 ms**
-**Part 2 Output**
+\**Part 2 Output**
 ![IPart 2 output](output.png)
